@@ -1,6 +1,6 @@
 # [Nordlayer](https://nordlayer.com) VPN package for Linux (esp [ArchLinux](https://archlinux.org/))
 
-[![AUR version](https://img.shields.io/aur/version/nordlayer)](https://aur.archlinux.org/packages/nordlayer) [![Nordlayer version](https://img.shields.io/badge/nordlayer-3.2.2-green)](https://nordlayer.com/download/linux/)
+[![AUR version](https://img.shields.io/aur/version/nordlayer)](https://aur.archlinux.org/packages/nordlayer) [![Nordlayer version](https://img.shields.io/badge/nordlayer-3.4.0-green)](https://nordlayer.com/download/linux/)
 
 ### Hotfix (Version 3.2.2) released by Nordlayer
 
@@ -39,7 +39,7 @@ git clone https://github.com/raverecursion/nordlayer-latest.git
 cd nordlayer-latest
 makepkg -si
 # If 'makepkg -si' fails to install automatically:
-sudo pacman -U nordlayer-bin-3.2.2-1-x86_64.pkg.tar.zst
+sudo pacman -U nordlayer-bin-3.4.0-1-x86_64.pkg.tar.zst
 ```
 
 ### Connection Error fix:
