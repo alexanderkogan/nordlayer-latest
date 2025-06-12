@@ -1,4 +1,6 @@
 # Maintainer: Roland Kiraly <rolandgyulakiraly at outlook dot com>
+# Contributer: PookMook
+# Contributor: Alexander Kogan <alexander.kogan at spaceteams dot de>
 # https://github.com/raverecursion/nordlayer-latest/tree/master
 pkgname=nordlayer
 pkgver=3.4.0
